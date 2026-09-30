@@ -1,0 +1,4 @@
+repository "GalacticTD/GalacticTD@9071434774609@cloud"
+  path "/"
+    br "/main"
+    co "/main"
